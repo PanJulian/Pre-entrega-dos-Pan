@@ -1,0 +1,48 @@
+                                                    /* LE DAMOS ESTILO AL HEADER */
+
+.nav ul{
+    list-style-type: none;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.nav li {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.li a {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+
+header {
+    background-color: rgb(65, 222, 48);
+}
+
+li :hover {
+    background-color: whitesmoke;
+}
+
+                                                    /* LE DAMOS ESTILO AL BODY */
+
+body {
+    background-color: rgb(186, 180, 180);
+}
+
+.parrafoInicio {
+    margin-right: 800px;
+}
+
+.imagenInicio {
+    margin-left: auto;
+    display: block;
+}
+
+                                                   /* LE DAMOS ESTILO AL FOOTER */
+
+footer {
+    background-color: rgb(65, 222, 48);
+}
