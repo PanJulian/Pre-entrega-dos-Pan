@@ -1,8 +1,8 @@
-                                                    /* LE DAMOS ESTILO AL HEADER */
+/************************************ LE DAMOS ESTILO AL HEADER ********************************************/
 
 .nav ul{
     list-style-type: none;
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
     padding: 15px;
 }
@@ -15,7 +15,7 @@
 .li a {
     text-decoration: none;
     color: black;
-    padding: 15px;
+    padding: 20px;
 }
 
 header {
@@ -26,22 +26,37 @@ li :hover {
     background-color: whitesmoke;
 }
 
-                                                    /* LE DAMOS ESTILO AL BODY */
+/************************************ LE DAMOS ESTILO AL MAIN ********************************************/
 
 body {
     background-color: rgb(186, 180, 180);
 }
 
-.parrafoInicio {
-    margin-right: 800px;
+.Uno img {
+    float: right;
+}
+
+.Uno p {
+    float: left;
 }
 
 .imagenInicio {
+    width: 300px;
     margin-left: auto;
     display: block;
+    float: right
 }
 
-                                                   /* LE DAMOS ESTILO AL FOOTER */
+.parrafoInicio {
+    display: inline-block;
+    float: left;
+}
+
+.Uno {
+    float: left;
+}
+
+/************************************ LE DAMOS ESTILO AL FOOTER ********************************************/
 
 footer {
     background-color: rgb(65, 222, 48);
