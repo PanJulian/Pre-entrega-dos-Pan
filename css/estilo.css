@@ -26,4 +26,24 @@ footer {
   padding-left: 300px;
 }
 
+/*Servicios estilo*/
+.divServ {
+  text-align: center;
+  padding-top: 50px;
+}
+
+/*estilo al registro*/
+.divRegis {
+  text-align: center;
+}
+
+/*FORMULARIO*/
+.form {
+  text-align: center;
+}
+
+.titForm {
+  text-align: center;
+}
+
 /*# sourceMappingURL=estilo.css.map */
