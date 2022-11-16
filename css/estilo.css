@@ -1,1 +1,29 @@
+/*FUENTES*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap");
+/*ESTILO GENERAL*/
+html {
+  font-size: larger;
+}
+html body {
+  background-color: rgb(56, 54, 54);
+  color: whitesmoke;
+  font-family: "Inter", sans-serif;
+}
+
+/*FOOTER*/
+div a {
+  padding-left: 20px;
+  font-size: larger;
+}
+
+footer {
+  text-align: center;
+  padding-top: 150px;
+}
+
+/*INDEX MAIN*/
+.h1 {
+  padding-left: 300px;
+}
+
 /*# sourceMappingURL=estilo.css.map */

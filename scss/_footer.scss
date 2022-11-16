@@ -1,0 +1,17 @@
+/*FOOTER*/ 
+@mixin ancla {
+    text-decoration: none;
+    color: $color-fuentes;
+    font-size: 3rem;
+}
+
+div a {
+    padding-left: 20px;
+    font-size: larger;
+}
+
+footer {
+    text-align: center;
+    padding-top: 150px;
+}
+
