@@ -26,15 +26,28 @@ footer {
   padding-left: 300px;
 }
 
+main div .col-sm-8 {
+  margin-top: 70px;
+}
+
 /*Servicios estilo*/
 .divServ {
   text-align: center;
   padding-top: 50px;
 }
 
+.hserv {
+  padding-left: 300px;
+}
+
 /*estilo al registro*/
 .divRegis {
   text-align: center;
+  margin-top: 70px;
+}
+
+.hregis {
+  padding-left: 450px;
 }
 
 /*FORMULARIO*/
@@ -44,6 +57,14 @@ footer {
 
 .titForm {
   text-align: center;
+}
+
+.hubi {
+  padding-left: 300px;
+}
+
+.ubip {
+  margin-top: 70px;
 }
 
 /*# sourceMappingURL=estilo.css.map */
